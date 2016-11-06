@@ -28,8 +28,8 @@ h1 {
 }
 .title {
 	position: absolute;
-	top: 0;
-	right: 0;
+	top: -1px;
+	right: -1px;
 	border: solid black 1px;
 	padding: 4px;
 	/*font-size: 20px;*/
